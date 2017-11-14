@@ -2,8 +2,8 @@
 title: <h3 style="color:#FF3300">“AA国际动漫杯”游戏评测大赛</h3>
 subtitle: 投稿截止日期：<b><a style="color:red">2017-12-03</a></b>
 author: "JasonWang"
-avatar: "/img/b.jpg"
-image: "/img/authors/JasonWang.jpg"
+avatar: "/img/authors/JasonWang.jpg"
+image: "/img/b.jpg"
 date:   2017-11-13 18:30:00
 ---
 

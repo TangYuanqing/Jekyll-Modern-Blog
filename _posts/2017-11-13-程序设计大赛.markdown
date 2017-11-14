@@ -2,8 +2,8 @@
 title:  <h2 style="color:#FF3300">程序设计大赛</h2>
 subtitle: 报名截止日期：<b><a style="color:red">2017-11-18</a></b>(周六)<br>正式比赛日期：<b><a style="color:red">2017-11-25</a></b>(周六)
 author: "TangYuanqing"
-avatar: "/img/a.jpg"
-image: "img/authors/TangYuanqing.jpg"
+avatar: "/img/authors/JasonWang.jpg"
+image: "/img/a.jpg"
 date:   2017-11-13 18:30:00
 ---
 
